@@ -1,0 +1,7 @@
+.godot/
+.dev/
+builds/
+*.tmp
+*.log
+player-data*/
+review-data*/

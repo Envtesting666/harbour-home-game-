@@ -1,0 +1,99 @@
+{
+  "cottage": {
+    "name": "Bahçeli Ev",
+    "category": "Konut",
+    "sprite": 0,
+    "price": 1800,
+    "value": 2400,
+    "build_seconds": 8,
+    "base_rent": 320,
+    "residents": 4,
+    "unlock_level": 1,
+    "description": "Düşük yatırım, düzenli kira. Park komşuluğundan yararlanır."
+  },
+  "apartments": {
+    "name": "Şehir Apartmanı",
+    "category": "Konut",
+    "sprite": 1,
+    "price": 5200,
+    "value": 6800,
+    "build_seconds": 16,
+    "base_rent": 680,
+    "residents": 12,
+    "unlock_level": 2,
+    "description": "Daha fazla kiracı, çevredeki işletmelere daha çok müşteri."
+  },
+  "villa": {
+    "name": "Havuzlu Villa",
+    "category": "Konut",
+    "sprite": 2,
+    "price": 8500,
+    "value": 11000,
+    "build_seconds": 24,
+    "base_rent": 1250,
+    "residents": 3,
+    "unlock_level": 3,
+    "description": "Yüksek kira, az nüfus. Parklarla değerli bir konut bölgesi kur."
+  },
+  "cafe": {
+    "name": "Köşe Kafe",
+    "category": "İşletme",
+    "sprite": 3,
+    "price": 3600,
+    "value": 4400,
+    "build_seconds": 12,
+    "base_rent": 0,
+    "customer_income": 62,
+    "residents": 0,
+    "unlock_level": 2,
+    "description": "Yürünebilir sokaklarla bağlı kiracılar müşteri olur. Kafeler müşterileri paylaşır."
+  },
+  "park": {
+    "name": "Çeşmeli Park",
+    "category": "Çevre",
+    "sprite": 4,
+    "price": 950,
+    "value": 1100,
+    "build_seconds": 4,
+    "base_rent": 0,
+    "residents": 0,
+    "unlock_level": 1,
+    "description": "Komşu konutların yeni kontratlarına %12 kira bonusu. En çok %36."
+  },
+  "hq": {
+    "name": "Şirket Merkezi",
+    "category": "Özel",
+    "sprite": 5,
+    "price": 0,
+    "value": 12000,
+    "build_seconds": 0,
+    "base_rent": 0,
+    "residents": 0,
+    "unlock_level": 1,
+    "description": "Mahalle projelerini tamamla, yeni yapıları ve genişleme iznini aç."
+  },
+  "construction": {
+    "name": "İnşaat",
+    "category": "Özel",
+    "sprite": 6,
+    "price": 0,
+    "value": 0,
+    "build_seconds": 0,
+    "base_rent": 0,
+    "residents": 0,
+    "unlock_level": 1,
+    "description": ""
+  },
+  "office": {
+    "name": "İş Merkezi",
+    "category": "Konut",
+    "sprite": 7,
+    "price": 16000,
+    "value": 21000,
+    "build_seconds": 32,
+    "base_rent": 2100,
+    "residents": 18,
+    "unlock_level": 4,
+    "description": "Kurumsal kiracılar ve yüksek müşteri potansiyeli."
+  }
+}
